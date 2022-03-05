@@ -31,7 +31,7 @@ The purpose of this lab is to explore automated unit-testing and more specifical
   
 ### Pairs covered in each test case
 
-  ![IMG_1028](https://user-images.githubusercontent.com/59512700/156870998-78017220-d6e1-407d-b30f-2329fb2b5b64.JPG)
+  ![2022-03-04, 11_34 PM Microsoft Lens](https://user-images.githubusercontent.com/59512700/156871653-149528d2-44d1-43e3-9a83-373b7901becb.jpeg)
 
 ### DU-pair coverage
 
