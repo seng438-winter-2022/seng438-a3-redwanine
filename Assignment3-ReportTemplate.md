@@ -28,7 +28,14 @@ The purpose of this lab is to explore automated unit-testing and more specifical
 ### DU-pairs sets
 
   ![IMG_1027](https://user-images.githubusercontent.com/59512700/156870883-fe3f0433-9232-44e8-aa0a-d442129ca4a1.JPG)
+  
+### Pairs covered in each test case
 
+  ![IMG_1028](https://user-images.githubusercontent.com/59512700/156870998-78017220-d6e1-407d-b30f-2329fb2b5b64.JPG)
+
+### DU-pair coverage
+
+  All Du-pairs are covered by each test case of DataUtilities.calculateColumnTotal, thus the du-pair coverage is 100%.
 
 ## (2) Range.contain
 
