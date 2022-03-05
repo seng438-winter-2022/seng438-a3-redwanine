@@ -15,7 +15,7 @@ The purpose of this lab is to explore automated unit-testing and more specifical
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-## (1) DataUtilities.calculateColumnTotal
+## (1) DataUtilities.calculateColumnTotal (2 arguments)
 
 ### Data Flow Diagram
 
