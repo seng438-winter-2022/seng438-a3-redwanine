@@ -15,7 +15,35 @@ The purpose of this lab is to explore automated unit-testing and more specifical
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-## DataUtilities.calculateColumnTotal
+## (1) DataUtilities.calculateColumnTotal
+
+### Data Flow Diagram
+
+  ![IMG_1025](https://user-images.githubusercontent.com/59512700/156870831-9e225324-9a16-47c1-8581-c39e0690dd01.JPG)
+  
+### Def-use sets
+
+  ![IMG_1026](https://user-images.githubusercontent.com/59512700/156870858-5a79cbf4-2f04-4e84-b095-2c0ddbbe8eaf.JPG)
+  
+### DU-pairs sets
+
+  ![IMG_1027](https://user-images.githubusercontent.com/59512700/156870883-fe3f0433-9232-44e8-aa0a-d442129ca4a1.JPG)
+
+
+## (2) Range.contain
+
+### Data Flow Diagram
+
+  ![IMG_1029](https://user-images.githubusercontent.com/59512700/156870914-edeba55c-888e-4d8d-96cb-a7157c9110ce.JPG)
+  
+### Def-use sets
+
+  ![IMG_1030](https://user-images.githubusercontent.com/59512700/156870930-148ddded-3ac3-4f4a-be42-2059e81d67c7.JPG)
+  
+### DU-pairs sets
+
+  ![IMG_1031](https://user-images.githubusercontent.com/59512700/156870938-a2cc624a-12eb-4bc9-8338-1b31c83bc046.JPG)
+
 
 # 3 A detailed description of the testing strategy for the new unit test
 
