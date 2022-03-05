@@ -43,6 +43,14 @@ The purpose of this lab is to explore automated unit-testing and more specifical
 ### DU-pairs sets
 
   ![IMG_1031](https://user-images.githubusercontent.com/59512700/156870938-a2cc624a-12eb-4bc9-8338-1b31c83bc046.JPG)
+  
+### Pairs covered in each test case
+
+  ![IMG_1028](https://user-images.githubusercontent.com/59512700/156870998-78017220-d6e1-407d-b30f-2329fb2b5b64.JPG)
+
+### DU-pair coverage
+
+  All Du-pairs are covered by each test case of Range.contain, thus the du-pair coverage is 100%.
 
 
 # 3 A detailed description of the testing strategy for the new unit test
