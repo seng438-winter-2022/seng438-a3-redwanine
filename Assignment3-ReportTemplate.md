@@ -9,9 +9,6 @@
 |                | Rahat Islam    |
 |                | Zeeshan Chougle    |
 
-(Note that some labs require individual reports while others require one report
-for each group. Please see each lab document for details.)
-
 # 1 Introduction
 
 The purpose of this lab is to explore automated unit-testing and more specifically, the concept of white-box testing. Functions from the DataUtilities and Range classes are tested using a combination of unit tests and mock tests. This was accomplished by utilizing Java’s JUnit framework to develop these unit tests. In this lab, we also wanted to include as much statement coverage, decision coverage and method coverage as possible.
