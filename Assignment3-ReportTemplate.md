@@ -24,7 +24,7 @@ During the black box testing phase, our group was focused on testing methods usi
 # 4 A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage
 
 **public void testCombineRangeIgNaN1():**
-![](media/1.JPG)
+![](imgs/1.JPG)
 For this test case, we created the first range to be null and the second range to be NaN such that the return null statement would occur. The result was increased statement and branch coverage.
   
 **public void testCombineRangeIgNaN3():**
